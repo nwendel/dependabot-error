@@ -17,9 +17,3 @@ updates:
       microsoft-dependencies:
         patterns:
          - "Microsoft.*"
-
-- package-ecosystem: "github-actions"
-    directory: "/.github/"
-    schedule:
-      interval: "daily"
-    
